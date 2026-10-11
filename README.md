@@ -2,6 +2,8 @@
 
 A simple front-end app that displays Bloomington animal shelter records and lets users learn about each animal's breed. It was created for a veterinary practice API assignment and could help staff and clients explore shelter records and general breed information.
 
+<img width="817" height="390" alt="Screenshot 2026-10-11 at 2 09 32 AM" src="https://github.com/user-attachments/assets/30daf7cc-3ea4-4230-a160-de76c6892298" />
+
 ## Languages used
 
 - **HTML5:** Structures the page, buttons, and results area.
@@ -39,8 +41,5 @@ No package installation or build step is required.
 - `CSS/complexVetAPI.css` — page styling.
 - `JS/complexVetApi.js` — API requests and page interactions.
 
-## Project Preview
-
-<img width="817" height="390" alt="Screenshot 2026-10-11 at 2 09 32 AM" src="https://github.com/user-attachments/assets/30daf7cc-3ea4-4230-a160-de76c6892298" />
 
 
